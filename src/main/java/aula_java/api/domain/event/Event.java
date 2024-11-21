@@ -1,4 +1,4 @@
-package domain.event;
+package aula_java.api.domain.event;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,6 +1,6 @@
-package domain.adress;
+package aula_java.api.domain.adress;
 
-import domain.event.Event;
+import aula_java.api.domain.event.Event;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
